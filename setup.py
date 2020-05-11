@@ -11,7 +11,7 @@ setuptools.setup(
     description="Updated and extended version of py-trello",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/Caloba1/trello-api-py",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
